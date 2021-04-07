@@ -1,4 +1,4 @@
-¡Hola !, aquí Mich
+#¡Hola !, aquí Mich
 - 👋Hola soy Mich @michcardenas
 - 👀 nada mejor que codigo, cafe y una buena canción. 
 - 🌱 Estoy creciendio en poder hacer un gran trabajo como programador y desarrollador. Mis SKILLS son HTML, CSS Y JAVASCRIPT. En estos momentos estoy aprendiendo react y 
