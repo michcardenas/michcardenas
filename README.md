@@ -10,8 +10,7 @@
                                                                       🖌CSS 
                                                                       🎇JAVASCRIPT
                                                                       🐘PHP
-                                                                      🐍PYTHON
-                                                                      🥨DJANGO 
+                                                                      🥨LARAVEL 
  Y quiero seguir creciendo...🚀
   
  👽👽 Code! Code!
