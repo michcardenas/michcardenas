@@ -16,7 +16,7 @@ Soy un **Desarrollador de Software** con amplia experiencia, especializado en la
 
 ---
 
-## SKILLS ACTUALIZADOS 🛠️
+## MIS SKILLS🛠️
 
 - **Control de Versiones:** GIT, GitHub
 - **Sistemas Operativos:** Linux
