@@ -12,6 +12,8 @@ Soy un **Desarrollador de Software** con amplia experiencia, especializado en la
 
 - **NTT Data - Cliente Telefónica:** Contribución al desarrollo de proyectos de software para seguimiento y geolocalización, destinados a transportar material de alto valor.
 
+- **LAVENIR APPS - Cliente ETB:** Contribución al desarrollo de proyectos de software para hacer IVR y poder direccionar al cliente en pagos de manera telefonica se hace con isabel y php.
+
 ---
 
 ## SKILLS ACTUALIZADOS 🛠️
